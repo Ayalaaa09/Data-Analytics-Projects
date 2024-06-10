@@ -1,2 +1,5 @@
 # Data-Analytics-Projects
-Contains all the data analytics projects that I have completed in my studies and includes projects that I have done at my own lesiure.
+
+Welcome to my Github page where I have all the data analytics projects that I have completed in my studies along with some personal projects that I have done in my own leisure. The purpose of this page is to showcase my skills for the job market as I am recent graduate with a Master's in Business Analytics from Wake Forest University's School of Business. I have also gained some great professional experience as I worked on a group learning project for a start-up called Price Dimesnions where our goal was to introduce modern data analytics tools to improve our client's way of work and I worked as a business analytics intern for ASM Global where I spearheaded every analytics project and reported to the general manager! The skills I will be showcasing include coding, data visualization, dashboards, data science techniques and methodologies, problem solving, writing up reports, and showing the fundamentals of data analytics. 
+
+I hope that this page serves you all well, and really shows the great potential that lies within in me as I start to begin my data analytics career!
