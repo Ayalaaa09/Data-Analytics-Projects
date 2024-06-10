@@ -1,5 +1,9 @@
 # Data-Analytics-Projects
 
-Welcome to my Github page where I have all the data analytics projects that I have completed in my studies along with some personal projects that I have done in my own leisure. The purpose of this page is to showcase my skills for the job market as I am recent graduate with a Master's in Business Analytics from Wake Forest University's School of Business. I have also gained some great professional experience as I worked on a group learning project for a start-up called Price Dimesnions where our goal was to introduce modern data analytics tools to improve our client's way of work and I worked as a business analytics intern for ASM Global where I spearheaded every analytics project and reported to the general manager! The skills I will be showcasing include coding, data visualization, dashboards, data science techniques and methodologies, problem solving, writing up reports, and showing the fundamentals of data analytics. 
+Welcome to my GitHub page, where I showcase a collection of data analytics projects from my professional and personal endeavors. As a recent graduate with a Master's in Business Analytics from Wake Forest University's School of Business, I aim to demonstrate my skills for the job market.
 
-I hope that this page serves you all well, and really shows the great potential that lies within in me as I start to begin my data analytics career!
+Throughout my professional experience, I've engaged in diverse projects, including collaborating with startups like Price Dimensions, where I reported directly to the founder, to internships at ASM Global, where I spearheaded various analytics projects and reported to the general manager.
+
+On this page, you'll find demonstrations of my proficiency in coding, data visualization, dashboard creation, data science methodologies, problem-solving, report writing, and the foundational principles of data analytics.
+
+I hope this portfolio effectively illustrates the potential I bring to the table as I embark on my career in data analytics. Thank you for visiting!
