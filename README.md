@@ -9,8 +9,8 @@ On this page, you'll find demonstrations of my proficiency in coding, data visua
 I hope this portfolio effectively illustrates the potential I bring to the table as I embark on my career in data analytics. Thank you for visiting!
 
 --- 
-## [Project 1: Preparing Time Series Data](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Ayala_Anthony_HW1.pdf)
-This is the first project I did for my masters program, where I have performed sentiment analysis on Tweets from Hillary Clinton. 
+## [Project 1: Predicting Churn](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/pandas_seaborn_201_Anthony_Ayala_.ipynb)
+
 -
 *
 *
