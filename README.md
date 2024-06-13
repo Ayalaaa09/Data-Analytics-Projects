@@ -25,9 +25,9 @@ This is my first project assigned in the Master's program that had a focus on ap
 Worked on Data Manipulation with Pandas and Numpy, and visualized clean data with Seaborn and Matplotlib. This project showcases exploratory data analysis, answering potential questions about the data and the business, and creating a naive chatbot that can answer simple questions about the data.
 - Data: Amazon Reviews of Products in Beauty and Personal Care.
   
-### [Project 3 / Midterm Project: Medicare and Opioid Analysis with Python]
-The goal of this project was to answer 10 analysis questions each requiring 1 table and at least 1 chart along with devising 5 of my own analysis questions. Also, finishing up the code and analysis with an executive summary that highlights my thoughts of analysis and the kinds of conclusions that I drew from the data.
-- Data: Several CSV files (Physicians, Scripts, and Zip Codes) from (MonkeyWrenchGang/MGTPPython/main/modeule_5/mid-term) from Github
+### [Project 3 / Midterm Project: Medicare and Opioid Analysis with Python](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/BAN6005_Mid_Term__Anthony_Ayala.ipynb)
+The goal of this project was to answer 10 analysis questions each requiring 1 table and at least 1 chart along with devising 5 of my own analysis questions. The final deliverable beyond the code and analysis was an executive summary that highlighted my thoughts of analysis and conclusions that I drew from the data.
+- Data: Several CSV files (Physicians, Scripts, and Zip Codes) from MonkeyWrenchGang/MGTPPython/main/modeule_5/mid-term from Github
 
 ### Project 2: 
 -
