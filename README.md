@@ -17,6 +17,11 @@ I hope this portfolio effectively illustrates the potential I bring to the table
 ---
 ## 1. Demonstrating Proficiency in Programming Languages (Python, SQL, and R)
 
+### [Project 1: Introduction to Python](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/Intro_to_python_Anthony_Ayala.ipynb)
+This is my first project assigned in the Master's program that had a focus on applying my beginner Python skills to work with dictionaries, lists, and different types of data. 
+- Data: MSBA Alumni Database (Collecting Data from LinkedIn)
+
+
 ### [Project 1: Predicting Churn](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/pandas_seaborn_201_Anthony_Ayala_.ipynb)
 
 -
