@@ -21,14 +21,11 @@ I hope this portfolio effectively illustrates the potential I bring to the table
 This is my first project assigned in the Master's program that had a focus on applying my beginner Python skills to work with dictionaries, lists, and different types of data. 
 - Data: MSBA Alumni Database (Collecting Data from LinkedIn)
 
-
-### [Project 1: Predicting Churn](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/pandas_seaborn_201_Anthony_Ayala_.ipynb)
-
--
-*
-*
-* The Project Write-Up is published on [Click Here to Download the PDF File]()
-
+### [Project 2: Pandas & Visualization 101](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/Pandas_viz_101_Anthony_Ayala.ipynb)
+Worked on Data Manipulation with Pandas and Numpy, and visualized clean data with Seaborn and Matplotlib. This project showcases exploratory data analysis, answering potential questions about the data and the business, and creating a naive chatbot that can answer simple questions about the data.
+- Data: Amazon Reviews of Products in Beauty and Personal Care.
+  
+### []
 
 ### Project 2: 
 -
