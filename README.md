@@ -1,4 +1,4 @@
-# Data-Analytics-Projects
+# Data Analytics Portfolio
 
 Welcome to my GitHub page, where I showcase a collection of data analytics projects from my professional and personal endeavors. As a recent graduate with a Master's in Business Analytics from Wake Forest University's School of Business, I aim to demonstrate my skills for the job market.
 
