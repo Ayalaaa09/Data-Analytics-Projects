@@ -11,9 +11,10 @@ I hope this portfolio effectively illustrates the potential I bring to the table
 --- 
 ## Table of Contents
 1. Demonstrating Proficiency in Programming Languages (Python, SQL and R)
-2. Fundamentals of Data Analytics and Science: Forecasting, Sentiment Analysis, Facial Recognition, Data Visualizations, Data Wrangling, and Exploratory Data Analytics
-3. Data Science Projects
-4. Personal Projects and Extra Tools and Techniques
+2. Demonstrating Proficiency in Excel
+3. Fundamentals of Data Analytics and Science: Forecasting, Sentiment Analysis, Facial Recognition, Data Visualizations, Data Wrangling, and Exploratory Data Analytics
+4. Data Science Projects
+5. Personal Projects and Extra Tools and Techniques
 ---
 ## 1. Demonstrating Proficiency in Programming Languages (Python, SQL, and R)
 
@@ -31,12 +32,11 @@ The goal of this project was to answer 10 analysis questions each requiring 1 ta
 
 [Click Here for Executive Summary](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Write%20Up%20and%20Appendix%20Files/Analytics%20Tech%20Mid-Term%20Project.pdf)
 
-### Project 2: 
+### []() 
 -
 
-## Project 3: 
--
+## 2. Demonstrating Proficiency in Excel
 
-## Project 4: 
--
+## [Project 1: Data Visualization for Blue Sparrow]() 
+- 
 
