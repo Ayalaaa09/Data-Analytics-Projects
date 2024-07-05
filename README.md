@@ -37,7 +37,7 @@ The goal of this project was to answer 10 analysis questions each requiring 1 ta
 
 ## 2. Demonstrating Proficiency in Excel
 
-### [Project 1: Data Visualization for Blue Sparrow](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FAyalaaa09%2FData-Analytics-Projects%2Fmain%2FExcel%2520Project%2520Files%2FBlue%2520Sparrow%2520Data.xlsx&wdOrigin=BROWSELINK) 
+### [Project 1: Data Visualization for Blue Sparrow](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Excel%20Project%20Files/Blue%20Sparrow%20Excel%20Visuals.png) 
 First Excel Project with the goal of applying data visualization principles and creating custom Excel charts
 - Data: Blue Sparrow Restaurants Inc. (12 Month Performance)
 
