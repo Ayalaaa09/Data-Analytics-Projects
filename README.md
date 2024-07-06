@@ -46,5 +46,10 @@ First Excel Project with the goal of applying data visualization principles and 
 
 ### Project 2: Social Media Dashboard and Pivot Table
 ![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Excel%20Project%20Files/Social%20Media%20Dashboard%20Excel.png) 
-The goal of this project is to learn Excel's pivot tables, filters, and custom graphs to create a dashboard to visualize performance views among the different social media platforms.
-- Data: Sample of Social Media Data (1 Week)
+The goal of this project was to learn Excel's pivot tables, filters, and custom graphs to create a dashboard to visualize performance views among the different social media platforms.
+- Data: Sample of Social Media Data (In Class Activity)
+
+### Project 3: Software Development Dashboard
+![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Excel%20Project%20Files/Social%20Media%20Dashboard%20Excel.png) 
+Worked with several data sources to create different visuals, which were then all combined to create a professional dashboard on a new sheet in Excel.
+- Data: Sample of Software Development Data (In Class Activity)
