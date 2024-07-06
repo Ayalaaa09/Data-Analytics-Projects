@@ -41,7 +41,7 @@ The goal of this project was to answer 10 analysis questions each requiring 1 ta
 ### Project 1: Data Visualization for Blue Sparrow
 ![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Excel%20Project%20Files/Blue%20Sparrow%20Excel%20Visuals.png) 
 First Excel Project with the goal of applying data visualization principles and creating custom Excel charts.
-- Data: Blue Sparrow Restaurants Inc. (12 Month Performance)
+- Data: Blue Sparrow Restaurants Inc. (In Class Activity)
 
 
 ### Project 2: Social Media Dashboard and Pivot Table
