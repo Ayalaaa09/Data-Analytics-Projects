@@ -53,3 +53,14 @@ The goal of this project was to learn Excel's pivot tables, filters, and custom 
 ![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Excel%20Project%20Files/Software%20Development%20Dashboard%20Excel%20Visuals.png) 
 Worked with several datasets to create different visuals, which were then all combined to create a professional dashboard on a new sheet in Excel.
 - Data: Sample of Software Development Data (In Class Activity)
+
+### Project 4: Supply Chain Optimization Problem Using Excel's OpenSolver
+![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Excel%20Project%20Files/Software%20Development%20Dashboard%20Excel%20Visuals.png) 
+The goal of this project was to showcase strong understanding of optimization (critical principle in Supply Chain) and apply that to Excel to get a feasible solution along with answering several questions.
+- Data: In Class Activity
+
+### Project 3: Software Development Dashboard
+![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Excel%20Project%20Files/Software%20Development%20Dashboard%20Excel%20Visuals.png) 
+Worked with several datasets to create different visuals, which were then all combined to create a professional dashboard on a new sheet in Excel.
+- Data: Sample of Software Development Data (In Class Activity)
+  
