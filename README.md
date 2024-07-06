@@ -50,6 +50,6 @@ The goal of this project was to learn Excel's pivot tables, filters, and custom 
 - Data: Sample of Social Media Data (In Class Activity)
 
 ### Project 3: Software Development Dashboard
-![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Excel%20Project%20Files/Social%20Media%20Dashboard%20Excel.png) 
+![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Excel%20Project%20Files/Software%20Development%20Dashboard%20Excel%20Visuals.png) 
 Worked with several data sources to create different visuals, which were then all combined to create a professional dashboard on a new sheet in Excel.
 - Data: Sample of Software Development Data (In Class Activity)
