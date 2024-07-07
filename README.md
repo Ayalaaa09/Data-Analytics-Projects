@@ -54,32 +54,24 @@ Worked with several datasets to create different visuals, which were then all co
 - Data: Sample of Software Development Data (In Class Activity)
 
 
-### Pivot Table Activity
-![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Excel%20Project%20Files/Optimization%20Problem%2010-26.png)
-![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Excel%20Project%20Files/Open%20Solver%20Model%2010-26.png)
+### [Pivot Table Activity](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Excel%20Project%20Files/PivotTable%20Activity%20Data.xlsx)
+![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Excel%20Project%20Files/Pivot%20Table%20Activity%20OMT.png)
+![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Excel%20Project%20Files/Pivot%20Table%20Activity%20Vehicles.png)
 The focus of this activity was to create and customize pivot tables to answer several questions about the data. I learned the importance of filtering and how to present data that is easy to understand for all parties.
 - Data: In Class Activity
 
-### Break Even Activity
-![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Excel%20Project%20Files/Optimization%20Problem%2010-26.png)
-![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Excel%20Project%20Files/Open%20Solver%20Model%2010-26.png)
-The focus of this activity was to create and customize pivot tables to answer several questions about the data. I learned the importance of filtering and how to present data that is easy to understand for all parties.
-- Data: In Class Activity
-
-### Advanced Spreadsheet Functions Activity
-![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Excel%20Project%20Files/Optimization%20Problem%2010-26.png)
-![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Excel%20Project%20Files/Open%20Solver%20Model%2010-26.png)
+### [Advanced Spreadsheet Functions Activity](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Excel%20Project%20Files/4_01_Advanced_Spreadsheet_Functions_Examples.xlsx)
+![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Excel%20Project%20Files/Advanced%20Spreadsheet%20Functions%201.png)
+![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Excel%20Project%20Files/Advanced%20Spreadsheet%20Functions%202.png)
 The focus of this activity was to use advanced Excel functions for decision-making and filling in columns of data with the different functions. This activity includes the following functions: IF, Nested IF, COUNTIF, AVGIF, COUNTIFS, AVGIFS, VLOOKUP, HLOOKUP, XLOOKUP, INDEX, MATCH, SMALL, ROUND, and Pivot Table.  
 - Data: In Class Activity
 
-### Breakeven Analysis Activity
-![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Excel%20Project%20Files/Optimization%20Problem%2010-26.png)
-![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Excel%20Project%20Files/Open%20Solver%20Model%2010-26.png)
+### [Break Even Activity](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Excel%20Project%20Files/3_01_Virginia_Toys_Breakeven_Goal_Seek.xlsx)
+![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Excel%20Project%20Files/Breakeven%20Analysis%20Visual.png)
 The focus of this activity was to visualize two types of capacity costs and to find the demand when there is no cost difference between the two types of capacity costs.
 - Data: In Class Activity
 
-### NBA Data Activity
-![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Excel%20Project%20Files/Optimization%20Problem%2010-26.png)
-![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Excel%20Project%20Files/Open%20Solver%20Model%2010-26.png)
+### [NBA Data Activity](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Excel%20Project%20Files/4_01_NBA_Data_Activity%20(Completed).xlsx)
+![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Excel%20Project%20Files/NBA%20Data%20Activity%20.png)
 In this activity, I was presented with an original data table, a lookup table, and an emptied data table that requires using Excel's LOOKUP functions and IF statements. This activity demonstrates proficiency in using Excel's advanced functions when working with a data table and a lookup table.
 - Data: NBA
