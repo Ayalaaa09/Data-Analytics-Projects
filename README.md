@@ -57,6 +57,7 @@ Worked with several datasets to create different visuals, which were then all co
 ### Project 4: Supply Chain Optimization Problem Using Excel's OpenSolver
 ![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Excel%20Project%20Files/Optimization%20Problem%2010-26.png)
 ![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Excel%20Project%20Files/Open%20Solver%20Model%2010-26.png)
+
 The goal of this project was to showcase a strong understanding of optimization (critical principle in Supply Chain) and apply that with Excel's OpenSolver to get a feasible solution.
 - Data: In Class Activity
 
