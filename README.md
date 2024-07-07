@@ -43,7 +43,6 @@ The goal of this project was to answer 10 analysis questions each requiring 1 ta
 First Excel Project with the goal of applying data visualization principles and creating custom Excel charts.
 - Data: Blue Sparrow Restaurants Inc. (In Class Activity)
 
-
 ### Project 2: Social Media Dashboard and Pivot Table
 ![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Excel%20Project%20Files/Social%20Media%20Dashboard%20Excel.png) 
 The goal of this project was to learn Excel's pivot tables, filters, and custom graphs to create a dashboard to visualize performance views among the different social media platforms.
@@ -54,15 +53,33 @@ The goal of this project was to learn Excel's pivot tables, filters, and custom 
 Worked with several datasets to create different visuals, which were then all combined to create a professional dashboard on a new sheet in Excel.
 - Data: Sample of Software Development Data (In Class Activity)
 
-### Project 4: Supply Chain Optimization Problem Using Excel's OpenSolver
+
+### Pivot Table Activity
 ![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Excel%20Project%20Files/Optimization%20Problem%2010-26.png)
 ![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Excel%20Project%20Files/Open%20Solver%20Model%2010-26.png)
-
-The goal of this project was to showcase a strong understanding of optimization (critical principle in Supply Chain) and apply that with Excel's OpenSolver to get a feasible solution.
+The focus of this activity was to create and customize pivot tables to answer several questions about the data. I learned the importance of filtering and how to present data that is easy to understand for all parties.
 - Data: In Class Activity
 
-### Project 3: Software Development Dashboard
-![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Excel%20Project%20Files/Software%20Development%20Dashboard%20Excel%20Visuals.png) 
-Worked with several datasets to create different visuals, which were then all combined to create a professional dashboard on a new sheet in Excel.
-- Data: Sample of Software Development Data (In Class Activity)
-  
+### Break Even Activity
+![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Excel%20Project%20Files/Optimization%20Problem%2010-26.png)
+![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Excel%20Project%20Files/Open%20Solver%20Model%2010-26.png)
+The focus of this activity was to create and customize pivot tables to answer several questions about the data. I learned the importance of filtering and how to present data that is easy to understand for all parties.
+- Data: In Class Activity
+
+### Advanced Spreadsheet Functions Activity
+![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Excel%20Project%20Files/Optimization%20Problem%2010-26.png)
+![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Excel%20Project%20Files/Open%20Solver%20Model%2010-26.png)
+The focus of this activity was to use advanced Excel functions for decision-making and filling in columns of data with the different functions. This activity includes the following functions: IF, Nested IF, COUNTIF, AVGIF, COUNTIFS, AVGIFS, VLOOKUP, HLOOKUP, XLOOKUP, INDEX, MATCH, SMALL, ROUND, and Pivot Table.  
+- Data: In Class Activity
+
+### Breakeven Analysis Activity
+![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Excel%20Project%20Files/Optimization%20Problem%2010-26.png)
+![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Excel%20Project%20Files/Open%20Solver%20Model%2010-26.png)
+The focus of this activity was to visualize two types of capacity costs and to find the demand when there is no cost difference between the two types of capacity costs.
+- Data: In Class Activity
+
+### NBA Data Activity
+![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Excel%20Project%20Files/Optimization%20Problem%2010-26.png)
+![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Excel%20Project%20Files/Open%20Solver%20Model%2010-26.png)
+In this activity, I was presented with an original data table, a lookup table, and an emptied data table that requires using Excel's LOOKUP functions and IF statements. This activity demonstrates proficiency in using Excel's advanced functions when working with a data table and a lookup table.
+- Data: NBA
