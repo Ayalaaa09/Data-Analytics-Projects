@@ -82,3 +82,9 @@ In this activity, I was presented with an original data table, a lookup table, a
 ![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Power%20BI%20Files/Overall%20Sales%20Performance%20Dashboard%20Region%20Report.png)
 This assigned project was geared to apply what we learned in Power BI workshops to create a custom dashboard with two types of reports for Sales Performance. This project required a home page for navigation between the two reports for our "client", each report page comes with several visuals that match the colors that the "client" requested, and the "client" requested the dashboard to be visually appealing so that all parties can understand what the data tell us.
 - Data: In Class Activity (Several Datasets)
+
+## 4. Demonstrating Proficiency in Tableau
+### [Tableau Assignment: Storytelling with Data](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Tableau/Data%20Vizzes%20for%20Nov%209%20Class-1.twb)
+![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Tableau/Global%20Superstore%20Storytelling%20in%20Tableau.mp4)
+In this activity, I created several visuals to learn about the data and become creative in telling a story about the Global Superstore's business problem. I used Tableau's built in story feature to generate a story of furniture's declining sales performanace and who the culprit was.
+- Data: [Global Superstore](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Tableau/Global%20Superstore.xls)
