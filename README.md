@@ -75,3 +75,10 @@ The focus of this activity was to visualize two types of capacity costs and to f
 ![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Excel%20Project%20Files/NBA%20Data%20Activity%20.png)
 In this activity, I was presented with an original data table, a lookup table, and an emptied data table that requires using Excel's LOOKUP functions and IF statements. This activity demonstrates proficiency in using Excel's advanced functions when working with a data table and a lookup table.
 - Data: NBA
+
+## 3. Demonstrating Proficiency in Power BI
+### [Power BI Assignment: Overall Sales Performance Dashboard](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Power%20BI%20Files/Ayala_Anthony.pbix)
+![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Power%20BI%20Files/Overall%20Sales%20and%20Performance%20Dashboard%20(Sales%20and%20Campaigns).png)
+![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Power%20BI%20Files/Overall%20Sales%20Performance%20Dashboard%20Region%20Report.png)
+This assigned project was geared to apply what we learned in Power BI workshops to create a custom dashboard with two types of reports for Sales Performance. This project required a home page for navigation between the two reports for our "client", each report page comes with several visuals that match the colors that the "client" requested, and the "client" requested the dashboard to be visually appealing so that all parties can understand what the data tell us.
+- Data: In Class Activity (Several Datasets)
