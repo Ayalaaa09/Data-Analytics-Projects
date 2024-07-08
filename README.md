@@ -86,5 +86,6 @@ This assigned project was geared to apply what we learned in Power BI workshops 
 ## 4. Demonstrating Proficiency in Tableau
 ### [Tableau Assignment: Storytelling with Data](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Tableau/Data%20Vizzes%20for%20Nov%209%20Class-1.twb)
 ![Tableau Storytelling Video Visual](https://ayalaaa09.github.io/Data-Analytics-Projects/Tableau/Global%20Superstore%20Storytelling%20in%20Tableau.mp4)
+https://github.com/Ayalaaa09/Data-Analytics-Projects/raw/main/Tableau/Global%20Superstore%20Storytelling%20in%20Tableau.mp4
 In this activity, I created several visuals to learn about the data and become creative in telling a story about the Global Superstore's business problem. I used Tableau's built-in story feature to generate a story of furniture's declining sales performance and who the culprit was.
 - Data: [Global Superstore](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Tableau/Global%20Superstore.xls)
