@@ -90,3 +90,8 @@ This assigned project was geared to apply what we learned in Power BI workshops 
 
 In this activity, I created several visuals to learn about the data and become creative in telling a story about the Global Superstore's business problem. I used Tableau's built-in story feature to generate a story of furniture's declining sales performance and who the culprit was.
 - Data: [Global Superstore](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Tableau/Global%20Superstore.xls)
+
+### [Tableau Assignment: Global Performance Dashboard](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Tableau/Data%20Vizzes%20for%20Nov%209%20Class-1.twb)
+![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Tableau/Global%20Superstore%20Exposition.png)
+In this activity, I analyzed Superstore data to report global shipping cost disparities and conducted in-depth assessment of profitability sensitivity to free shipping.
+- Data: [Global Superstore](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Tableau/Global%20Superstore.xls)
