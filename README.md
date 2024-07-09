@@ -13,9 +13,8 @@ I hope this portfolio effectively illustrates the potential I bring to the table
 1. Demonstrating Proficiency in Programming Languages (Python, SQL and R)
 2. Demonstrating Proficiency in Excel
 3. Demonstrating Proficiency in Power BI and Tableau
-4. Fundamentals of Data Analytics and Science: Forecasting, Sentiment Analysis, Facial Recognition, Data Visualizations, Data Wrangling, and Exploratory Data Analytics
-5. Data Science Projects
-6. Personal Projects and Extra Tools and Techniques
+4. Data Analytics and Science Expertise and Projects: Clasification, Training and Testing Models, Forecasting, Sentiment Analysis, Facial Recognition, Data Visualizations, Data Wrangling, and Exploratory Data Analysis
+5. Personal Projects and Extra Tools and Techniques
 ---
 ## 1. Demonstrating Proficiency in Programming Languages (Python, SQL, and R)
 
