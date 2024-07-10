@@ -19,19 +19,22 @@ I hope this portfolio effectively illustrates the potential I bring to the table
 ## 1. Demonstrating Proficiency in Programming Languages (Python, SQL, and R)
 
 ### [Project 1: Introduction to Python](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/Intro_to_python_Anthony_Ayala.ipynb)
-![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/Data%20Deacs%20Linkedin%20Page.png) 
 This is my first project assigned in the Master's program that had a focus on applying my beginner Python skills to work with dictionaries, lists, and different types of data. 
 - Data: MSBA Alumni Database (Collecting Data from LinkedIn)
+  
+![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/Data%20Deacs%20Linkedin%20Page.png) 
 
 ### [Project 2: Pandas & Visualization 101](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/Pandas_viz_101_Anthony_Ayala.ipynb)
-![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/Amazon%20Reviews.png) 
 Worked on Data Manipulation with Pandas and Numpy, and visualized clean data with Seaborn and Matplotlib. This project showcases exploratory data analysis, answering potential questions about the data and the business, and creating a naive chatbot that can answer simple questions about the data.
 - Data: Amazon Reviews of Products in Beauty and Personal Care.
 
+![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/Amazon%20Reviews.png)   
+
 ### [Project 3: : Pandas & Seaborn 201](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/BAN6005_Mid_Term__Anthony_Ayala.ipynb)
-![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/Pandas%20and%20Seabon%20Project%20-%20Who%20is%20Likely%20to%20Churn.png)
 Similar to Project 2, this project focuses on data cleaning, articulate key findings from creating plots, and answering several questions such as top 5 states with the highest number of churns.
-- Data: [Customer Churn]()
+- Data: [Customer Churn](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/Customer%20Churn.csv)
+
+![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/Pandas%20and%20Seabon%20Project%20-%20Who%20is%20Likely%20to%20Churn.png)  
 
 ### [Project 4 / Midterm Project: Medicare and Opioid Analysis with Python](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/BAN6005_Mid_Term__Anthony_Ayala.ipynb)
 ![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/Opioid%20Crisis.jpg) 
