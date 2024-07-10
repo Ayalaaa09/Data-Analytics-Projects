@@ -49,6 +49,13 @@ This project introduces the great potential in data analytics by connecting two 
 
 ![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/Python%20and%20SQL%20Connection.jpg)  
 
+### [Project 6: Analyzing New York City Employee Data with MySQL](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/SQL%20Project%20Files/nyc_prep.sql)
+In this project, I practice my skills with MySQL such as creating and inserting tables, creating simple and complex queries, and finally along with inserting a dataset into the schema/database. 
+- Data: [New York City Employee Data](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/SQL%20Project%20Files/nyc_applications.csv)
+
+![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/SQL%20Project%20Files/New%20York%20City.jpg)  
+
+
 ## 2. Demonstrating Proficiency in Excel
 
 ### Project 1: Data Visualization for Blue Sparrow
