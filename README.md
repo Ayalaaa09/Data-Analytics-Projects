@@ -62,11 +62,12 @@ Here, I answer many questions about the data and overall performance of the sele
 
 ![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/SQL%20Project%20Files/Airlines%20Delays%20and%20Cancellations.jpg)  
 
-### [Project 8: SQL Excel Integration]()
-This project is similar to project 5, but here I connect MySQL database to Excel with the focus on analyzing a loan dataset. The data is sampled from a major financial institution where their data science teams are tasked with developing several machine learning models to predict "loan status", and my goal is to judge and analyze the predictions of the loans that default.
-- Data: [Airline Data MySQL Dump File]()
+### [Project 8: SQL Excel Integration](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/SQL%20Project%20Files/Anthony_Ayala_Assignment_3.xlsx)
+This project is similar to project 5, but here I connect MySQL database to Excel with the focus on analyzing a loan dataset. The data is sampled from a major financial institution where their data science teams are tasked with developing several machine learning models to predict "loan status", and my goal is to analyze the predictions of the loans that default with visuals and answering revelant questions.
+- Data: [Loan Data MySQL Dump File](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/SQL%20Project%20Files/create_table_loans.sql)
+- [MySQL Queries File](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/SQL%20Project%20Files/Assignment_3_MySQL.sql) 
 
-![Book Logo]()  
+![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/SQL%20Project%20Files/Assignment%203%20MySQL%20and%20Excel%20.png)  
 
 ## 2. Demonstrating Proficiency in Excel
 
