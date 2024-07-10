@@ -65,7 +65,7 @@ Here, I answer many questions about the data and overall performance of the sele
 
 ## 2. Demonstrating Proficiency in Excel
 
-### Project 1: Data Visualization for Blue Sparrow
+### Project 1: Data Visualization of Drive Thru Waiting Times for Blue Sparrow Restaurants
 First Excel Project with the goal of applying data visualization principles and creating custom Excel charts.
 - Data: Blue Sparrow Restaurants Inc. (In Class Activity)
  
