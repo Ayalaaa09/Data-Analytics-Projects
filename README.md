@@ -56,11 +56,11 @@ In this project, I practice my skills with MySQL such as creating and inserting 
 ![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/SQL%20Project%20Files/New%20York%20City.jpg)  
 
 
-### [Project 7: Airlines Delays and Airtime Analysis with MySQL](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/SQL%20Project%20Files/nyc_prep.sql)
+### [Project 7: Airlines Delays and Airtime Analysis with MySQL](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/SQL%20Project%20Files/Assignment_2_SQL_Code.sql)
 Here, I answer many questions about the data and overall performance of the selected airlines such as which airlines have the longest average arrival delay, to what is the worst day of the week to travel based on average departure delay, what are the top 10 airlines with the most flights in January and May, to descriptive statistics of airtime flown, etc.
-- Data: [New York City Employee Data](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/SQL%20Project%20Files/nyc_applications.csv)
+- Data: [Airline Data MySQL Dump File](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/SQL%20Project%20Files/create_table_flights.sql)
 
-![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/SQL%20Project%20Files/New%20York%20City.jpg)  
+![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/SQL%20Project%20Files/Airlines%20Delays%20and%20Cancellations.jpg)  
 
 
 ## 2. Demonstrating Proficiency in Excel
