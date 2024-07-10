@@ -32,9 +32,6 @@ The goal of this project was to answer 10 analysis questions each requiring 1 ta
 
 [Click Here for Executive Summary](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Write%20Up%20and%20Appendix%20Files/Analytics%20Tech%20Mid-Term%20Project.pdf)
 
-### []() 
--
-
 ## 2. Demonstrating Proficiency in Excel
 
 ### Project 1: Data Visualization for Blue Sparrow
