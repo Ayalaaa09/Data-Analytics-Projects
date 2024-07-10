@@ -13,7 +13,7 @@ I hope this portfolio effectively illustrates the potential I bring to the table
 1. Demonstrating Proficiency in Programming Languages (Python, SQL and R)
 2. Demonstrating Proficiency in Excel
 3. Demonstrating Proficiency in Power BI and Tableau
-4. Data Analytics and Science Expertise and Projects: Clasification, Training and Testing Models, Forecasting, Sentiment Analysis, Facial Recognition, Data Visualizations, Data Wrangling, and Exploratory Data Analysis
+4. Data Analytics and Science Expertise and Projects: Classification, Training and Testing Models, Forecasting, Sentiment Analysis, Facial Recognition, Data Visualizations, Data Wrangling, and Exploratory Data Analysis
 5. Personal Projects and Extra Tools and Techniques
 ---
 ## 1. Demonstrating Proficiency in Programming Languages (Python, SQL, and R)
@@ -62,6 +62,11 @@ Here, I answer many questions about the data and overall performance of the sele
 
 ![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/SQL%20Project%20Files/Airlines%20Delays%20and%20Cancellations.jpg)  
 
+### [Project 8: SQL Excel Integration]()
+This project is similar to project 5, but here I connect MySQL database to Excel with the focus on analyzing a loan dataset. The data is sampled from a major financial institution where their data science teams are tasked with developing several machine learning models to predict "loan status", and my goal is to judge and analyze the predictions of the loans that default.
+- Data: [Airline Data MySQL Dump File]()
+
+![Book Logo]()  
 
 ## 2. Demonstrating Proficiency in Excel
 
