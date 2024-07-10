@@ -30,7 +30,7 @@ Worked on Data Manipulation with Pandas and Numpy, and visualized clean data wit
 
 ![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/Amazon%20Reviews.png)   
 
-### [Project 3: : Pandas & Seaborn 201](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/BAN6005_Mid_Term__Anthony_Ayala.ipynb)
+### [Project 3: Pandas & Seaborn 201](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/BAN6005_Mid_Term__Anthony_Ayala.ipynb)
 Similar to Project 2, this project focuses on data cleaning, articulate key findings from creating plots, and answering several questions such as top 5 states with the highest number of churns.
 - Data: [Customer Churn](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/Customer%20Churn.csv)
 
@@ -42,6 +42,12 @@ The goal of this project was to answer 10 analysis questions each requiring 1 ta
 [Click Here for Executive Summary](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Write%20Up%20and%20Appendix%20Files/Analytics%20Tech%20Mid-Term%20Project.pdf)
 
 ![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/Opioid%20Crisis.jpg) 
+
+### [Project 5: Connecting to a MySQL Database in Python](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/MySQL%20Connection%20from%20Local%20Python%20Install-1.ipynb)
+This project introduces the great potential in data analytics by connecting two of the most powerful tools in data analytics today to perform analysis and generate visuals.
+- Data: Medicare and Opioid Data stored in MySQL Database
+
+![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/Python%20and%20SQL%20Connection.jpg)  
 
 ## 2. Demonstrating Proficiency in Excel
 
