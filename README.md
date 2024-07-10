@@ -139,9 +139,9 @@ In this activity, I analyzed Superstore data to report global shipping cost disp
 
 ## 4. Data Analytics and Science Expertise and Projects: Classification, Training and Testing Models, Forecasting, Sentiment Analysis, Facial Recognition, Data Visualizations, Data Wrangling, and Exploratory Data Analysis
 
-### [Project 1: Fighting Fraud with Python, SQL and Excel](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/SQL%20Project%20Files/Anthony_Ayala_Assignment_3.xlsx)
-The goal of this project is to prevent fraudsters who are opening fake accounts in a legitimate customer's name. The big problem that these fraudsters cause is that they transfer funds from the legit customer to these fraudulent accounts, after a period of time, they then close the account and running off with the money. In my analysis, I first extract a table of data from a Postgres cloud database, second I enrich the data in Python by extracting unique IP addresses and parsing the JSON responses to which I store the enriched dataset back into the MySQL database, third I build a classification model to predict the Fraud or Legit in Python, and use Excel to create visuals.
-- Data: [Loan Data MySQL Dump File](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/SQL%20Project%20Files/create_table_loans.sql)
-- [MySQL Queries File](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/SQL%20Project%20Files/Assignment_3_MySQL.sql) 
+### [Project 1: Fighting Fraud with Python, SQL and Excel](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/SQL%20Project%20Files/Assignment_5_Visuals.xlsx)
+The goal of this project is to prevent fraudsters who are opening fake accounts in a legitimate customer's name. The big problem that these fraudsters cause is that they transfer funds from the legit customer to these fraudulent accounts, after a period of time, they then close the account and run off with the money. In my analysis, I first extract a table of data from a Postgres cloud database, second I enrich the data in Python by extracting unique IP addresses and parsing the JSON responses to which I store the enriched dataset back into the MySQL database, third I build a classification model to predict the Fraud or Legit in Python, and use Excel to create visuals.
+- Data: [Jupyter Notebook](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/SQL%20Project%20Files/Assignment_5.ipynb)
+- [MySQL Queries File](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/SQL%20Project%20Files/Assignment_5_Queries.sql) 
 
-![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/SQL%20Project%20Files/Assignment%203%20MySQL%20and%20Excel%20.png)  
+![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/SQL%20Project%20Files/Fighting%20Fraud%20Project.png)  
