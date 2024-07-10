@@ -25,10 +25,15 @@ This is my first project assigned in the Master's program that had a focus on ap
 ### [Project 2: Pandas & Visualization 101](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/Pandas_viz_101_Anthony_Ayala.ipynb)
 Worked on Data Manipulation with Pandas and Numpy, and visualized clean data with Seaborn and Matplotlib. This project showcases exploratory data analysis, answering potential questions about the data and the business, and creating a naive chatbot that can answer simple questions about the data.
 - Data: Amazon Reviews of Products in Beauty and Personal Care.
-  
-### [Project 3 / Midterm Project: Medicare and Opioid Analysis with Python](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/BAN6005_Mid_Term__Anthony_Ayala.ipynb)
+
+### [Project 3: : Pandas & Seaborn 201](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/BAN6005_Mid_Term__Anthony_Ayala.ipynb)
+Similar to Project 2, this project focuses on data cleaning, articulate key findings from creating plots, and answering several questions such as top 5 states with the highest number of churns.
+- Data: [Customer Churn]()
+
+### [Project 4 / Midterm Project: Medicare and Opioid Analysis with Python](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/BAN6005_Mid_Term__Anthony_Ayala.ipynb)
 The goal of this project was to answer 10 analysis questions each requiring 1 table and at least 1 chart along with devising 5 of my own analysis questions. The final deliverable beyond the code and analysis was an executive summary that highlighted my thoughts of analysis and conclusions that I drew from the data.
 - Data: Several CSV files (Physicians, Scripts, and Zip Codes) from MonkeyWrenchGang/MGTPPython/main/modeule_5/mid-term at Github
+
 
 [Click Here for Executive Summary](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Write%20Up%20and%20Appendix%20Files/Analytics%20Tech%20Mid-Term%20Project.pdf)
 
