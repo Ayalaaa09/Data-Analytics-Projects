@@ -215,6 +215,8 @@ You've taken a job with your favorite music streaming service and they've asked 
 - Data: [Eric's Songs](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/erics_songs.xlsx)
 - Data: [Unique Tracks](https://drive.google.com/file/d/13qtsOVxyGxqlVUN-X31COD-7YXWP2aco/view?usp=drive_link)
 - Data: [Million Song Dataset](https://drive.google.com/file/d/1416kgNm6Zkjvv8evTAUIObQjOEKiHI9o/view?usp=drive_link)
+- [Executive Summary](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Write%20Up%20and%20Appendix%20Files/Music%20Recommender%20Executive%20Summary.pdf)
+- [Appendix](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Write%20Up%20and%20Appendix%20Files/Music%20Recommender%20Appendix.pdf)
 
 ![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/Spotify%20Recommender%20System.png)  
 
@@ -228,6 +230,7 @@ Random Forest: An ensemble method known for its robustness and ability to handle
 Gradient Boosting Machine (GBM) OR XGBoost: Advanced ensemble techniques known for their predictive power.
 - Data: [Training Data Zip File](https://drive.google.com/file/d/164Iup-KI8gQgzI5iSPoz7LQhhSo8J9jz/view?usp=drive_link)
 - Data: [Holdout Data Zip File](https://drive.google.com/file/d/167-B3NYD-z4RK3gLH1ESHQGeerzPsIiE/view?usp=drive_link)
+- [Executive Summary](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Write%20Up%20and%20Appendix%20Files/Project%202%20Finding%20Fraud%20Faster.pdf)
 
 ![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/Fighting%20Fraud%20with%20Machine%20Learning.webp)  
 
