@@ -163,3 +163,19 @@ This unique project dives into a new realm of analytics by working with unstruct
 - Data: [Updated Resume](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/Anthony%20Ayala%20Resume.pdf)
 
 ![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/Text%20Analysis%20Project_Word%20Cloud.png)  
+
+### [Project 3: Boston House Prices](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/Project_6_Boston.ipynb)
+The main goal of this project was to choose which linear regression models predict assessed value for the property the best, which was determined by performing EDA and using statistical methods (e.g. R-Squared). The analytics guideline that I used is as follows: 1. Understanding the Data with a basic data summary, 2. Univariate Analysis on both the target and features, 3. Bivariate Analysis for each feature with respect to the target variable, 4. Multivariate Analysis (Heatmap, Pair Plots, and Multivariate Regression Plots), 5. Outlier Detection and Treatment (Use Z-Score or IQR to detect outliers and decide whether to remove, cap/floor, or transform outliers).
+- Data: [Boston House Prices](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/boston-1.csv)
+- Data: [Model 1 Predictions](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/model1_predictions-1.csv)
+- Data: [Model 2 Predictions](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/model2_predictions-1.csv)
+  
+![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/Predict%20Boston%20House%20Price.jpg)  
+
+
+### [Project 4: ]()
+
+- Data: []()
+
+![Book Logo]()  
+
