@@ -63,11 +63,21 @@ Here, I answer many questions about the data and overall performance of the sele
 ![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/SQL%20Project%20Files/Airlines%20Delays%20and%20Cancellations.jpg)  
 
 ### [Project 8: SQL Excel Integration](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/SQL%20Project%20Files/Anthony_Ayala_Assignment_3.xlsx)
-This project is similar to project 5, but here I connect MySQL database to Excel with the focus on analyzing a loan dataset. The data is sampled from a major financial institution where their data science teams are tasked with developing several machine learning models to predict "loan status", and my goal is to analyze the predictions of the loans that default with visuals and answering revelant questions.
+This project is similar to project 5, but here I connect MySQL database to Excel with the focus on analyzing a loan dataset. The data is sampled from a major financial institution where their data science teams are tasked with developing several machine learning models to predict "loan status", and my goal is to analyze the predictions of the loans that default with visuals and answering relevant questions.
 - Data: [Loan Data MySQL Dump File](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/SQL%20Project%20Files/create_table_loans.sql)
 - [MySQL Queries File](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/SQL%20Project%20Files/Assignment_3_MySQL.sql) 
 
 ![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/SQL%20Project%20Files/Assignment%203%20MySQL%20and%20Excel%20.png)  
+
+### [Project 9: MySQL Database Design Group Project](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/SQL%20Project%20Files/Project4Presentation.pdf)
+In this group project, our goal was to explore the rise of digital streaming platforms, such as Spotify and Apple Music. The business problem is defined as artists and labels now have to navigate this landscape on understanding audience preferences, and predicting trends. In our project, we address the following challenges: Genre-Artist Relationship, User Engagement, Track Performance, and Album-Artist Associations. In the end, we documented our findings and results, and created a presentation.
+- Data: [Top 10 Albums By Year Length](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/SQL%20Project%20Files/Top%2010%20Albums%20By%20Year%20Album%20Length%20-%20Sheet1.csv)
+- Data: [Top 10 Albums by Year Tracks - Album Length](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/SQL%20Project%20Files/Top%2010%20Albums%20By%20Year%20Tracks%20-%20Album%20Length.csv)
+- [MySQL Tables and Queries](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/SQL%20Project%20Files/Proj%204%20SQL%20Tables%20and%20Queries.pdf) 
+- [Write Up](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/SQL%20Project%20Files/Project%204%20Write-Up.pdf)
+- 
+![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/SQL%20Project%20Files/Assignment%203%20MySQL%20and%20Excel%20.png)  
+
 
 ## 2. Demonstrating Proficiency in Excel
 
