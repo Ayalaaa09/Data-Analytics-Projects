@@ -190,21 +190,42 @@ This case study discovers a business problem that many organizations in the supe
 ![Book Logo]()
 
 
-### [Project 6: ]()
+### [Project 6: Airbnb in Austin, Texas Group Project ]()
 
 - Data: []()
 
 ![Book Logo]() 
 
 
-### [Project 7: ]()
+### [Project 7: Identity Verification and Who Came to Class with Face Recognition and AWS]()
 
 - Data: []()
 
 ![Book Logo]()
 
 
-### [Project 8: ]()
+### [Project 8: Music Recommender with Singular Value Decomposition (SVD)]()
+
+- Data: []()
+
+![Book Logo]()  
+
+### [Project 9: Revisiting Fighting Fraud Project, Can you Identify Fradulent Transaction?]()
+
+- Data: []()
+
+![Book Logo]()  
+
+
+### [Project 10: Revisiting Loan Default Project, Can you Predict Loan Default?]()
+
+- Data: []()
+
+![Book Logo]()  
+
+## 5.Personal Projects and Extra Tools and Techniques
+
+### [Project 1: Web Scraping 101]()
 
 - Data: []()
 
