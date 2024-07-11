@@ -175,13 +175,15 @@ The main goal of this project was to choose which linear regression models predi
 ![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/Predict%20Boston%20House%20Prices.png)  
 
 
-### [Project 4: ]()
+### [Project 4: Organic Products Case Study](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/Project_3_Classification.ipynb)
+This case study discovers a business problem that many organizations in the supermarket industry may face, which is determining what factors contribute to the likelihood of customers purchasing a particular good and developing a profile of the typical customer that purchases organic products. The supermarket's management is very eager to find the customer who purchases organic products as they are aware that these type of customers are highly profitable. Here, I train many models and perform deep analysis to provide insights and recommendations for the organization.
+- Data: [Holdout Dataset](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/organics-1.csv)
+- Data: [Test Dataset](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/New_organics-1.csv)
+- [Presentation](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Write%20Up%20and%20Appendix%20Files/Project%203%20Classification.pdf)
 
-- Data: []()
+![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/Organic%20Products%20Case%20Study.png)  
 
-![Book Logo]()  
-
-### [Project 5: ]()
+### [Project 5: Baggage Complaints Forecast]()
 
 - Data: []()
 
