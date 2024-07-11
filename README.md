@@ -196,8 +196,7 @@ In this group project, my colleague and I were asked to use several analytical t
 - Data: [Airbnb Listings Austin](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/airbnb_listings_austin.csv)
 - [Executive Summary](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Write%20Up%20and%20Appendix%20Files/Final%20Project_%20Investing%20in%20Austin%20-%20Anthony%20%26%20Jennifer.pdf)
 
-![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/Tuned%20Decision%20Tree%20(Predictive%20Final).png)
-![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/Text%20Analysis%20Project_Word%20Cloud.png)
+![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/Austin%20Airbnb%20Listings.webp)
 
 
 ### [Project 7: Identity Verification and Who Came to Class with Face Recognition and AWS]()
