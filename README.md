@@ -218,11 +218,18 @@ You've taken a job with your favorite music streaming service and they've asked 
 
 ![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/Spotify%20Recommender%20System.png)  
 
-### [Project 9: Revisiting Fighting Fraud Project, Can you Identify Fradulent Transaction?]()
+### [Project 9: Revisiting Fighting Fraud Project, Can you Identify Fradulent Transaction?](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/Anthony_Ayala_Fraud_Detection_Project.ipynb)
+Objective of the project: You’ve just been invited to interview with the machine learning team at a large financial institution. Their job is to find fraud, waste, and abuse in their payment stream. You have been presented with a sample dataset of transactions and a holdout set, your job is to walk through your process of exploring the data, building model(s), and evaluating them. Your target variable is called EVENT_LABEL and contains a label "legit" or "fraud". There is a data dictionary at the end of this project.
 
-- Data: []()
+You will train and evaluate three different models.
 
-![Book Logo]()  
+Logistic Regression: Serves as a baseline for performance comparison.
+Random Forest: An ensemble method known for its robustness and ability to handle complex data structures.
+Gradient Boosting Machine (GBM) OR XGBoost: Advanced ensemble techniques known for their predictive power.
+- Data: [Training Data Zip File](https://drive.google.com/file/d/164Iup-KI8gQgzI5iSPoz7LQhhSo8J9jz/view?usp=drive_link)
+- Data: [Holdout Data Zip File](https://drive.google.com/file/d/167-B3NYD-z4RK3gLH1ESHQGeerzPsIiE/view?usp=drive_link)
+
+![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/Fighting%20Fraud%20with%20Machine%20Learning.webp)  
 
 
 ### [Project 10: Revisiting Loan Default Project, Can you Predict Loan Default?]()
