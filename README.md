@@ -223,7 +223,7 @@ This case study discovers a business problem that many organizations in the supe
 
 ![Book Logo]()  
 
-## 5.Personal Projects and Extra Tools and Techniques
+## 5. Personal Projects and Extra Tools and Techniques
 
 ### [Project 1: Web Scraping 101]()
 
