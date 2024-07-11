@@ -181,3 +181,29 @@ The main goal of this project was to choose which linear regression models predi
 
 ![Book Logo]()  
 
+### [Project 5: ]()
+
+- Data: []()
+
+![Book Logo]()
+
+
+### [Project 6: ]()
+
+- Data: []()
+
+![Book Logo]() 
+
+
+### [Project 7: ]()
+
+- Data: []()
+
+![Book Logo]()
+
+
+### [Project 8: ]()
+
+- Data: []()
+
+![Book Logo]()  
