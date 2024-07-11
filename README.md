@@ -183,11 +183,12 @@ This case study discovers a business problem that many organizations in the supe
 
 ![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/Organic%20Products%20Case%20Study.png)  
 
-### [Project 5: Baggage Complaints Forecast]()
+### [Project 5: Baggage Complaints Forecast](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/Baggage_Complaints.ipynb)
+This project gains exposure to working with Time Series Data, specifically data on baggage claims and canceled flights over time for three airlines. In short, my analysis covers what factors contribute to baggage complaints and canceled flights, along with exploring the relationship of these two scenarios. I also created a 6-month forecast for each airline, and documented the results of the forecast.
+- Data: [Baggage Complaints](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/BaggageComplaints.csv)
+- [Executive Summary](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Write%20Up%20and%20Appendix%20Files/Project%202%20Forecasting.pdf)
 
-- Data: []()
-
-![Book Logo]()
+![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/Baggage%20Complaints%20Forecast.jpg)
 
 
 ### [Project 6: Airbnb in Austin, Texas Group Project ]()
