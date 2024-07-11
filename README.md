@@ -253,8 +253,8 @@ StackingClassifier or AutoGluon Weighted Ensemble.
 
 ## 5. Personal Projects and Extra Tools and Techniques
 
-### [Project 1: Web Scraping 101]()
+### [Project 1: Web Scraping 101](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/Web%20Scraping%20Practice)
+I decided to learn how to web scrape in Python to collect data and add more tools to my analytics skills set to achieve creating a live dashboard for my analytics internship.
+- [Presentation](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Write%20Up%20and%20Appendix%20Files/Tools%20and%20Techniques.pdf)
 
-- Data: []()
-
-![Book Logo]()  
+![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/Web%20Scraping.png)  
