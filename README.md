@@ -209,11 +209,14 @@ Goal of this project: You are working for a company that wants to use Facial Bio
 ![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/Amazon%20Face%20Rekognition.png)
 
 
-### [Project 8: Music Recommender with Singular Value Decomposition (SVD)]()
+### [Project 8: Music Recommender with Machine Learning](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/Anthony_Ayala's_Music_Recommender.ipynb)
+You've taken a job with your favorite music streaming service and they've asked you to come up with a way to make recommendations based on a user's play count. Your boss challenges you to build and compare two types of recommender systems (Singular Value Decomposition a.k.a SVD and K-Nearest Neighbor a.k.a KNN) using a subset of the Million Song Dataset.
+- Data: [Anthony's Songs](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/anthony%20ayala's%20ten%20songs.csv)
+- Data: [Eric's Songs](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/erics_songs.xlsx)
+- Data: [Unique Tracks](https://drive.google.com/file/d/13qtsOVxyGxqlVUN-X31COD-7YXWP2aco/view?usp=drive_link)
+- Data: [Kaggle: Music Data](https://drive.google.com/file/d/1416kgNm6Zkjvv8evTAUIObQjOEKiHI9o/view?usp=drive_link)
 
-- Data: []()
-
-![Book Logo]()  
+![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/Spotify%20Recommender%20System.png)  
 
 ### [Project 9: Revisiting Fighting Fraud Project, Can you Identify Fradulent Transaction?]()
 
