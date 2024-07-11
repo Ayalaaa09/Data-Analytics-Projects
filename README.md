@@ -169,8 +169,10 @@ The main goal of this project was to choose which linear regression models predi
 - Data: [Boston House Prices](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/boston-1.csv)
 - Data: [Model 1 Predictions](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/model1_predictions-1.csv)
 - Data: [Model 2 Predictions](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/model2_predictions-1.csv)
+- [Executive Summary](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Write%20Up%20and%20Appendix%20Files/Anthony%20Ayala%20Project%206%20Executive%20Summary.pdf)
+- [Appendix](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Write%20Up%20and%20Appendix%20Files/Anthony%20Ayala%20Project%206%20Appendix.pdf)
   
-![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/Predict%20Boston%20House%20Price.jpg)  
+![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/Predict%20Boston%20House%20Prices.png)  
 
 
 ### [Project 4: ]()
