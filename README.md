@@ -199,11 +199,13 @@ In this group project, my colleague and I were asked to use several analytical t
 ![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/Austin%20Airbnb%20Listings.webp)
 
 
-### [Project 7: Identity Verification and Who Came to Class with Face Recognition and AWS]()
+### [Project 7: Identity Verification and Who Came to Class with Face Recognition and AWS](https://drive.google.com/drive/folders/1yB_ke947xCOHb3w_HsiWucZI1Pc5Osf2?usp=drive_link)
+Goal of this project: You are working for a company that wants to use Facial Biometrics (Face Recognition) to ensure that their employees are returning to work! In your case, we are looking at who came to class and whether we can reliably verify identities by comparing faces. In particular, the company is interested in comparing the performance, pros, and cons of the opensource package “facial_recognition” against the Amazon ReKognition API service. To do this they have cooked up two use cases for you to analyze. First how well do the two packages do on facial recognition simply comparing two faces to one another, and second how well can we recognize known faces in an image.
+- Data: In Class Data and Stored in Zip Files.
 
-- Data: []()
+- [Executive Summary and Appendix](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Write%20Up%20and%20Appendix%20Files/Executive%20Summary%20and%20Short%20Reports%20for%20Case%20One%20%26%20Case%20Two.pdf)
 
-![Book Logo]()
+![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/Amazon%20Face%20Rekognition.png)
 
 
 ### [Project 8: Music Recommender with Singular Value Decomposition (SVD)]()
