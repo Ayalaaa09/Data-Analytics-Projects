@@ -235,11 +235,21 @@ Gradient Boosting Machine (GBM) OR XGBoost: Advanced ensemble techniques known f
 ![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/Fighting%20Fraud%20with%20Machine%20Learning.webp)  
 
 
-### [Project 10: Revisiting Loan Default Project, Can you Predict Loan Default?]()
+### [Project 10: Revisiting Loan Default Project, Can you Predict Loan Default?](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/Anthony_Ayala_Final_Project_Loan_Defaults.ipynb)
+You’ve recently joined a major financial institution and are tasked with developing and comparing several machine learning models to predict “loan status”. Specifically which loans are likely to default. Since we now work in a regulated industry, we need to ensure that our models are both explainable and that the predictions that we create can be explained; and most importantly we can document what we did!
 
-- Data: []()
-
-![Book Logo]()  
+You will train and evaluate different models:
+Logistic Regression: Serves as a baseline for performance comparison.
+Random Forest: An ensemble method known for its robustness and ability to handle complex data structures.
+Gradient Boosting Machine (GBM) OR XGBoost: Advanced ensemble techniques known for their predictive power.
+Neural Network: An approximation method known for it’s ability to identify non-linear relationships.
+StackingClassifier or AutoGluon Weighted Ensemble.
+- Data: [Loan Training Dataset](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/loan_train.csv)
+- Data: [Loan Holdout Dataset](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/loan_holdout.csv)
+- Data: [Metrics Baseline Dataset](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/metrics%20baseline.csv)
+- [Excutive Summary and Detailed Analysis](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Write%20Up%20and%20Appendix%20Files/Executive%20Summary%20%26%20Detailed%20Analysis%20Final%20Project%20Anthony%20Ayala.pdf)
+  
+![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/Loan%20Default%20with%20Machine%20Learning.webp)  
 
 ## 5. Personal Projects and Extra Tools and Techniques
 
