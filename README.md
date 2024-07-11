@@ -191,11 +191,13 @@ This project gains exposure to working with Time Series Data, specifically data 
 ![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/Baggage%20Complaints%20Forecast.jpg)
 
 
-### [Project 6: Airbnb in Austin, Texas Group Project ]()
+### [Project 6: Airbnb in Austin, Texas Group Project ](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/Jennifer%26Anthony_Final.ipynb)
+In this group project, my colleague and I were asked to use several analytical techniques in Python that go from simple models like regressions to more complex models like classification trees and K-means clustering, and finally we had to report our findings. The focus of the topic revolves around questions such as the following: around what key factors drive the nightly rental price for units in the Austin area, what are the key factors driving the probability of keeping a unit booked in the Austin area, how important are guest reviews and ratings, and etc.
+- Data: [Airbnb Listings Austin](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/airbnb_listings_austin.csv)
+- [Executive Summary](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Write%20Up%20and%20Appendix%20Files/Final%20Project_%20Investing%20in%20Austin%20-%20Anthony%20%26%20Jennifer.pdf)
 
-- Data: []()
-
-![Book Logo]() 
+![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/Tuned%20Decision%20Tree%20(Predictive%20Final).png)
+![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/Text%20Analysis%20Project_Word%20Cloud.png)
 
 
 ### [Project 7: Identity Verification and Who Came to Class with Face Recognition and AWS]()
