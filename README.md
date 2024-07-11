@@ -75,8 +75,8 @@ In this group project, our goal was to explore the rise of digital streaming pla
 - Data: [Top 10 Albums by Year Tracks - Album Length](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/SQL%20Project%20Files/Top%2010%20Albums%20By%20Year%20Tracks%20-%20Album%20Length.csv)
 - [MySQL Tables and Queries](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/SQL%20Project%20Files/Proj%204%20SQL%20Tables%20and%20Queries.pdf) 
 - [Write Up](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/SQL%20Project%20Files/Project%204%20Write-Up.pdf)
-- 
-![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/SQL%20Project%20Files/Assignment%203%20MySQL%20and%20Excel%20.png)  
+  
+![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/SQL%20Project%20Files/MySQL_Spotify%20Project.png)
 
 
 ## 2. Demonstrating Proficiency in Excel
