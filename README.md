@@ -156,3 +156,10 @@ The goal of this project is to prevent fraudsters who are opening fake accounts 
 - [MySQL Queries File](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/SQL%20Project%20Files/Assignment_5_Queries.sql) 
 
 ![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/SQL%20Project%20Files/Fighting%20Fraud%20Project.png)  
+
+### [Project 2: Resume and Job Posting Descriptions Matching Mania with Python](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/Job_descriptions_and_Resume_by_Project.ipynb)
+This unique project dives into a new realm of analytics by working with unstructured text data, and performing analytics. The core of this project is to see how many words and what words my resume matches with a job posting description. This project serves as a great indicator for what skills and words I may be missing on my resume, which could tell me what next steps I may need to take to improve my chances in the job search process.
+- Data: [MSBA Job Descriptions by Anthony Ayala](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/MSBA%20Job%20Descriptions%20by%20Anthony%20Ayala.xlsx)
+- Data: [Updated Resume](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/Anthony%20Ayala%20Resume.pdf)
+
+![Book Logo](https://github.com/Ayalaaa09/Data-Analytics-Projects/blob/main/Juypter%20Notebook%20Files/Text%20Analysis%20Project_Word%20Cloud.png)  
